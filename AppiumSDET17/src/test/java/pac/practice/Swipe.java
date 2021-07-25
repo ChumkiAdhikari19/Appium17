@@ -32,6 +32,7 @@ public class Swipe {
 		driver.swipe(860, 870, 170, 1660, 1000);
 		
 		
+		
 
 	}
 
